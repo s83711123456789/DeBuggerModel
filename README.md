@@ -1,7 +1,7 @@
 # DeBuggerNet
 2021 NASA SpaceApp de Bugger project model
 
-## train
+## Train
 excute trainUNet.ipynb
 
 ## Reference
